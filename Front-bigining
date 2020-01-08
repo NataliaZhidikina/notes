@@ -2,8 +2,10 @@ Notes of front-end dev
 ===================================
 
 #HTML
+  http://www.mezzoblue.com/downloads/markupguide/
   - <blockquote>, <q>, <cite> - https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/
   - <datails> - https://daverupert.com/2019/12/why-details-is-not-an-accordion/
+  
 #CSS
 
 #JS
@@ -24,9 +26,9 @@ Notes of front-end dev
 
 #Recourses
 
-https://daverupert.com/
-https://adrianroselli.com/
+  https://daverupert.com/
+  https://adrianroselli.com/
 
 #Linters
 
-https://editorconfig-specification.readthedocs.io/en/latest/
+  https://editorconfig-specification.readthedocs.io/en/latest/
