@@ -12,6 +12,7 @@ Notes of front-end dev
   https://weboverhauls.github.io/demos/
   https://bitsofco.de/pa11y/
   https://www.w3.org/TR/using-aria/
+  https://a11yproject.com/posts/getting-started-aria/
   
   svg
     https://www.deque.com/blog/creating-accessible-svgs/
@@ -25,3 +26,7 @@ Notes of front-end dev
 
 https://daverupert.com/
 https://adrianroselli.com/
+
+#Linters
+
+https://editorconfig-specification.readthedocs.io/en/latest/
