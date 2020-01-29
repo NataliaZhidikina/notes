@@ -1,0 +1,6 @@
+#Intrinsic  sizing
+This is a sizing depending of content of block.
+There are 3 value for this sizing.
+  - min-content
+  - max-content
+  - fit-content ( min-content > auto > max-content)
